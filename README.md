@@ -17,5 +17,5 @@ SQL Checker is a command-line tool designed to help security researchers and web
 1. Clone the repository:
    ```bash
    git clone https://github.com/CMAgent007/sql-checker-tool(https://github.com/CMAgent007/sql-checker-tool)
-   cd Auto-SQL
+   cd sql-checker-tool
    python sql.py [URL]
